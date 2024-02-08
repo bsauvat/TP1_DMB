@@ -43,7 +43,7 @@ Voici un échantillon de statistiques de joueurs :
 ```
 
 
-Voici le TOP 10 des meilleurs joueurs en  moyenne de kills : 
+Voici le TOP 10 des meilleurs joueurs en moyenne de kills : 
 
 ```markdown
 | Killer Name       | Number of Games  | Average Kills per Game |
@@ -60,7 +60,7 @@ Voici le TOP 10 des meilleurs joueurs en  moyenne de kills :
 | yy555333_         | 1.00             | 53.00                  |
 ```
 
-Voici le TOP 10 des meilleurs joueurs en moyenne de palcement par partie :
+Voici le TOP 10 des meilleurs joueurs en moyenne de placement par partie :
 
 ```markdown
 | Player Name       | Number of Games  | Average placement per Game |
