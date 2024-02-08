@@ -4,7 +4,7 @@ Réalisé par Quentin LEGRAND et Bastien SAUVAT
 
 ## 💻 0. Prérequis
 
-Pour lancer le TP, ajoutez les fichiers **"./kill_match_stats_final_0.csv" et "./agg_match_stats_0.csv"** à la racine du projet.
+Pour lancer le TP, ajoutez les fichiers **"./agg_match_stats_0.csv"** à la racine du projet.
 
 ## 💻 1. Présentation du TP
 
