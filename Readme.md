@@ -121,8 +121,7 @@ Etude d'un joueur en particulier :
 1. player Name: gogolnyg, Number of Games: 1.00, Average placement per Game: 1.00
 ```
 
-En conclusion, à première vue il ne semble pas y avoir de rapport entre L’objectif est d’être le dernier en vie et la nécessité d’éliminer
-un maximum de concurrents. 
+En conclusion, à première vue il ne semble pas y avoir de rapport entre l’objectif d’être le dernier en vie et la nécessité d’éliminer un maximum de concurrents. 
 
 ## 💻 4. Score des joueurs
 
@@ -143,6 +142,6 @@ Voici le TOP 10 des meilleurs joueurs selon le classement combiné :
 | 6l8-I34-8O0-g9un  | 11618.00 |
 ```
 
-Avec ce format de classement il semblerait que les joueurs ayant fait le plus de kill soient les plus avantagés. En effet on retoruve 5 joueurs du TOP 10 des kills dans ce TOP : Wgqun373692007_, WG-Qun326373092-, WG_Qun-326373092, QQqun-608179539, gogolnyg. 
+Avec ce format de classement, il semblerait que les joueurs ayant fait le plus de kill soient les plus avantagés. En effet, on retoruve 5 joueurs du TOP 10 des kills dans ce TOP : Wgqun373692007_, WG-Qun326373092-, WG_Qun-326373092, QQqun-608179539, gogolnyg. 
 
-De plus le TOP 1 du classement labowoo, qui occupe la 1ère et 2ème place du classement, est un aussi un joueur de kill puisque qu'on le retrouve 2ème du TOP 10 des kills avec plus de 4 partie jouées.
+De plus, le TOP 1 du classement labowoo, qui occupe la 1ère et 2ème place du classement, est un aussi un joueur de kill puisque qu'on le retrouve 2ème du TOP 10 des kills avec plus de 4 partie jouées.
